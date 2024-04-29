@@ -1,7 +1,7 @@
 # Wireshark for Basic Network Security Analysis 
 <br />
 <h2>Description</h2> 
-
+Here we will learn how to capture a packet, locate a packet and create our own network traffic. In the end you will able to locate where to investigate the source, destination of the packets, protocols used and the basic step by steps for network security analysis.
 <h2>Radius Packet</h2> 
 
 <p align="center">
@@ -58,5 +58,41 @@ If no DNS traffic appears you can generate it. Click the windows icon and type i
   <br />
 <img src= "https://i.imgur.com/EDohsSp.png[/img]" alt="command prompt"/>
  <br />
+Type ping then any site of your choosing. Here I typed in www.coursera.com. As you can see the ping starts to generate.
+ <br />
+ 
+  <p align="center">
+  <br />
+<img src= "https://i.imgur.com/GHjGSuC.png[/img]" alt="coursera in command prompt"/>
+ <br />
+Next you will click ctrl (control) plus the letter C to stop the ping. 
+ <br />
+ 
+  <p align="center">
+  <br />
+<img src= "https://i.imgur.com/04BTbXb.png[/img]" alt="control c in command prompt"/>
+ <br />
+As you can see a dns server with the name of www.coursera.com appears in your network traffic.
+     <br />
+ 
+  <p align="center">
+  <br />
+<img src= "https://i.imgur.com/zHp5yfZ.png[/img]" alt="dns server appears"/>
+ <br />
+Click the red square button on the left hand side to stop the traffic of that dns server. 
+ <br />
+ 
+  <p align="center">
+  <br />
+<img src= "" alt=""/>
+ <br />
+    
+Click file and close and delete the filter.
+ <p align="center">
+  <br />
+<img src= "https://i.imgur.com/udbpx7R.png[/img]" alt="dns server and file close"/>
+ <br /
 
+
+    Summary: Now we can work with Wireshark and it's basic tools. You can view captured packets and also capture traffic
 
