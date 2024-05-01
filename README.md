@@ -94,5 +94,5 @@ Click file and close and delete the filter.
  <br /
 
 
-    Summary: Now we can work with Wireshark and it's basic tools. You can view captured packets and also capture traffic
+    Summary: Now we can work with Wireshark and it's basic tools. You can view captured packets and also capture traffic.
 
