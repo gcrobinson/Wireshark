@@ -1,7 +1,7 @@
 # Wireshark for Basic Network Security Analysis 
 <br />
 <h2>Description</h2> 
-Here we will learn how to capture a packet, locate a packet and create our own network traffic. In the end you will able to locate where to investigate the source, destination of the packets, protocols used and the basic step by steps for network security analysis.
+Here we will learn how to capture & locate a packet and create our own network traffic. In the end you will able to investigate the source, destination of the packets, protocols used and the basic step by steps for network security analysis.
 <h2>Radius Packet</h2> 
 
 <p align="center">
