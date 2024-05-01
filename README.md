@@ -9,7 +9,7 @@ Here we will learn how to capture & locate a packet and create our own network t
 <img src= "https://i.imgur.com/LEa0kZW.png[/img]" alt="radius pcap in wireshark"/>
  <br />
   
-Here I have the Wireshark program running and located the file Radius.pcap under the DESKTOP icon to analyze network traffic. 
+Here I have the Wireshark Network Analyzer running and located the file Radius.pcap under the DESKTOP icon to analyze network traffic. 
  <br />
  
   <h2>Network Traffic Analysis</h2>
