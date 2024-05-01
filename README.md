@@ -29,7 +29,7 @@ To capture a packet we locate the network interface that is connected to this ma
   <br />
 <img src= "https://i.imgur.com/gq4Rd3X.png[/img]" alt="ethernet3 machine"/>
  
-    <br />
+<br />
 After double-clicking Ethernet 3, you will see all of the traffic appear.
   <br />
     
