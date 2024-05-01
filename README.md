@@ -13,7 +13,7 @@ Here I have the Wireshark Network Analyzer running and located the file Radius.p
  <br />
  
   <h2>Network Traffic Analysis</h2>
-This is all traffic that was captured before and stored. You can analyze the time, investigate the source, and destination adresses of the packets. You can check to see the protocol used and any other information needeD byc clicking each line to open information inside the packets.
+This is all traffic that was captured before and stored. You can analyze the time, investigate the source, and destination adresses of the packets. You can check to see the protocol used and any other information needed by clicking each line to open information inside the packets.
   <br />
   
 <p align="center">
