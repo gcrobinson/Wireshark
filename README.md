@@ -73,7 +73,7 @@ Next you will click ctrl (control) plus the letter C to stop the ping.
 <img src= "https://i.imgur.com/04BTbXb.png[/img]" alt="control c in command prompt"/>
  <br />
     
-As you can see a dns server with the name of www.coursera.com appears in your network traffic below.
+  As you can see a dns server with the name of www.coursera.com appears in your network traffic below.
      <br />
   <p align="center">
   <br />
